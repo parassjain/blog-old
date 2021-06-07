@@ -5,11 +5,11 @@ date:   2021-06-07
 categories: Daily-Learning
 ---
 
-this post is about setting up Jekyll to start blogging(on linus)
+this post is about setting up Jekyll to start blogging(on linux)
 i will be covering just jekyll part here, uploading on github pages will be in the next part 
 -> [link]({{ site.baseurl }}{% post_url 2021-06-07-how-to-host-your-blog-on-github %})
 
-prefer linus/macos over windows
+prefer linux/macos over windows
 
 go to website [jekyll docs](https://jekyllrb.com/docs/)
 follow these 4 simple commands
