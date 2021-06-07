@@ -7,5 +7,5 @@ categories: jekyll update
 Welcome to my first post!
 
 ## here are the things i will be writing about 
-1. w
-2. sf
+1. random
+2. random 2
